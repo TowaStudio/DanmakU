@@ -7,10 +7,12 @@
   <a href="./LICENSE">
      <img src="https://img.shields.io/github/license/james7132/DanmakU.svg"/>
    </a>
-  <a href="https://discordapp.com/invite/e9G43m2">
-     <img src="https://discordapp.com/api/guilds/346069036557271052/widget.png"/>
-   </a>
 </p>
+
+---
+
+### Fork
+This repo is a fork for adopting DanmakU library to 3D bullet hell project.
 
 ---
 
